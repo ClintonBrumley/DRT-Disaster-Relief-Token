@@ -1,2 +1,2 @@
 # DRT-Disaster-Relief-Token
-DRT is the pay it forward token that helps when disaster strikes. When you own DRT you can send them to those in need and they can exchange them for TRX.
+DRT. Disaster Relief Token is the ultimate pay it forward token. It is on the TRON Network and helps when disaster strikes. When you own DRT you can send them to those in need, anywhere, any disaster. They then can exchange their DRT for TRX....... 1 DRT = 100 TRX
